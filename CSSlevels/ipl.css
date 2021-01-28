@@ -1,0 +1,46 @@
+header{
+    width: 50%;
+    height: 50px;
+    background-color:rgb(18, 71, 151);
+    color: white;
+    text-align: center;
+    text-decoration: underline;
+    
+}
+
+body{
+    margin-left: 400px;
+    background-color:rgb(18, 71, 151);
+}
+
+
+
+#k11{
+    background-image: url(punjabn.jfif);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    width: 50%;
+}
+
+#mi{
+    background-image:url(min.jfif);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    width: 50%;
+}
+
+#csk{
+    background-image: url(cskn.jfif);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    width:50%
+}
+
+#rcb{
+    background-image: url(rcbn.jfif);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    width:50%
+}
+
+
